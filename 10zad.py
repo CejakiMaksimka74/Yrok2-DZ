@@ -25,5 +25,3 @@ else:
 
 
 print(l)
-print(count)
-print(count1)
